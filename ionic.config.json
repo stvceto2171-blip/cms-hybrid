@@ -1,0 +1,8 @@
+{
+  "name": "CMS Hybrid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "d6088797"
+}
